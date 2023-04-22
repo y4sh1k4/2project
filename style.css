@@ -1,0 +1,29 @@
+body{
+    color:darkorange;
+    background-color:blanchedalmond;
+}
+#btn{
+    background-color:white;
+    border-radius:6px;
+    cursor:pointer;
+    
+    padding: 5px 25px;
+    box-shadow: 0 0 12px black;
+    margin-left: 40%;
+    margin-top: 5%;
+    border:none;
+    border-color: aqua;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position:relative;
+
+}
+label{
+    color:red;
+}
+h1{
+    text-align:center;
+    color:red;
+}
+.inputcontainer{
+    background-color: transparent;
+}
